@@ -2,6 +2,7 @@
 This is my personal configuration for Arch Linux
 
 ![Desktop](./Showcase/desktop.png)
+![Another](./Showcase/another.png)
 
 ## Required packages
 ```
