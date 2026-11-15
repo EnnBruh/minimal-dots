@@ -1,0 +1,21 @@
+[general]
+import = [
+	"~/.config/alacritty/themes/themes/miasma.toml"
+]
+
+[window.padding]
+x = 20
+y = 20
+
+[font]
+size = 27.0
+
+[font.normal]
+family = "monogram"
+style = "Regular"
+[font.bold]
+family = "monogram"
+style = "Regular"
+[font.italic]
+family = "monogram"
+style = "Regular"
