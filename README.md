@@ -10,7 +10,18 @@ pacman -Syu git base-devel hyprland swaybg hyprpicker btop alacritty fastfetch f
 ```
 Install [paru](https://github.com/Morganamilo/paru)
 ```
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+```
+```
 paru -S light tetris-tui-git
+```
+
+Install [packer](https://github.com/wbthomason/packer.nvim)
+```
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
 ## Keybinds
