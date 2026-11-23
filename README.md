@@ -38,6 +38,7 @@ SUPER + SHIFT + arrows = Resize focused window
 SUPER + ALT + {1..10} = Send focused window to {1..10} workspace
 SUPER + ALT + S = Send focused window to special workspace
 SUPER + SHIFT + S = Take Screenshot and add to clipboard
+SUPER + SPACE = Switch language
 ```
 
 ## Command aliases
